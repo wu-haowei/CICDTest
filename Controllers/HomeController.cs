@@ -15,7 +15,6 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            ddd
             return View();
         }
 
